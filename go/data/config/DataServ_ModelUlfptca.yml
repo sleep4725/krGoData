@@ -1,8 +1,0 @@
-# 공공데이터
-#
-#
-baseUrl: "https://apis.data.go.kr/B552584/UlfptcaAlarmInqireSvc/getUlfptcaAlarmInfo"
-serviceKey: "DEKhxOqUU68QptRpT3vGj4R4MNLSLDP97/vajhNy4MiQEHXtXXPJipUgj8f3zmO8lNMB++SUeRNGvzzBdkn7xQ=="
-returnType: "json"
-numOfRows: 10
-itemCode: "PM10"
