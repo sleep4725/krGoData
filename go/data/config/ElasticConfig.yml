@@ -1,0 +1,4 @@
+esHosts: 
+  - "127.0.0.1"
+esHttp: "http"
+esPort: 9200
